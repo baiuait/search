@@ -1,0 +1,64 @@
+2019-12-06 at 08:46:44 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-06 at 08:46:47 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2853 ms
+2019-12-06 at 08:46:47 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-06 at 08:46:48 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 706 ms
+2019-12-06 at 08:47:20 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:47:21 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-06 at 08:47:21 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:47:21 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:48:42 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:48:42 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:49:21 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:49:21 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:50:16 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:31
+2019-12-06 at 08:51:18 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:51:29 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:51:29 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:52:13 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:52:13 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:52:16 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:52:16 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:52:21 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:52:41 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-06 at 08:52:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 08:52:43 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 08:52:57 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:33
+2019-12-06 at 08:53:03 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-06 at 08:53:05 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:54:06 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:55:05 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:55:15 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:55:33 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:55:48 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:56:00 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:56:49 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:57:00 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:57:19 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:58:10 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:58:21 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:59:42 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 08:59:56 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:01:31 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:01:34 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:01:57 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:02:21 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:03:25 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:03:29 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:03:34 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:04:07 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-06 at 09:04:10 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 09:04:10 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 09:04:34 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-06 at 09:04:36 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:04:38 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:05:25 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:05:37 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:05:45 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-06 at 09:06:00 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-06 at 09:06:02 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-06 at 09:06:02 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-06 at 09:06:08 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:31
+2019-12-06 at 09:06:13 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-06 at 09:06:15 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:32
+2019-12-06 at 09:06:16 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:32
+2019-12-06 at 09:06:16 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:32

@@ -1,0 +1,603 @@
+2019-12-05 at 08:23:03 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 08:23:07 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4385 ms
+2019-12-05 at 08:23:07 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 08:23:09 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1221 ms
+2019-12-05 at 08:23:24 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 08:50:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:50:45 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:13
+2019-12-05 at 08:50:48 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:51:35 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 08:51:47 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:1
+2019-12-05 at 08:51:50 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:52:36 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:52:38 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:14
+2019-12-05 at 08:52:44 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:12
+2019-12-05 at 08:53:01 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 08:55:38 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:55:40 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:15
+2019-12-05 at 08:55:48 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 08:55:51 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:1
+2019-12-05 at 08:55:53 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:55:56 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:16
+2019-12-05 at 08:56:26 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 08:56:30 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4308 ms
+2019-12-05 at 08:56:30 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 08:56:31 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1302 ms
+2019-12-05 at 08:57:00 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 08:57:02 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 08:57:11 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 08:57:13 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 08:57:24 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:00:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:00:49 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:17
+2019-12-05 at 09:00:52 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:01:03 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:04:26 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:04:27 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:04:29 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:18
+2019-12-05 at 09:04:34 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:05:03 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:08:24 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:08:25 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:08:27 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:19
+2019-12-05 at 09:08:32 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:08:48 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:08:52 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:11:45 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 09:11:49 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3977 ms
+2019-12-05 at 09:11:49 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 09:11:51 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1277 ms
+2019-12-05 at 09:11:58 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:11:59 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 09:12:10 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 09:12:12 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:12:17 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:20
+2019-12-05 at 09:12:19 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:12:27 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:13:00 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:13:03 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:11
+2019-12-05 at 09:13:07 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:14:21 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:14:22 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:14:28 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:14:30 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:21
+2019-12-05 at 09:14:35 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:14:37 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:15:16 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 09:15:19 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2956 ms
+2019-12-05 at 09:15:19 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 09:15:20 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1350 ms
+2019-12-05 at 09:15:28 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:15:29 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 09:15:39 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 09:15:41 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:15:56 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:10
+2019-12-05 at 09:17:32 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 09:17:35 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3680 ms
+2019-12-05 at 09:17:35 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 09:17:37 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1492 ms
+2019-12-05 at 09:17:39 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:17:40 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 09:17:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:17:45 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:18:01 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:18:15 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:1
+2019-12-05 at 09:18:35 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:18:47 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 09:18:50 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:18:53 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:22
+2019-12-05 at 09:19:02 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:22
+2019-12-05 at 09:19:13 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:19:22 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:1
+2019-12-05 at 09:19:23 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:1
+2019-12-05 at 09:19:44 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:19:44 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:19:46 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:23
+2019-12-05 at 09:19:49 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:23:58 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 09:24:01 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2524 ms
+2019-12-05 at 09:24:01 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 09:24:02 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 941 ms
+2019-12-05 at 09:24:05 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:24:05 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 09:24:19 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:24:23 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:24:34 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:24:36 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:24:39 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:24
+2019-12-05 at 09:24:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:25:41 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:25:53 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:25:57 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:26:02 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:26:07 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:1
+2019-12-05 at 09:26:22 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:26:33 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:27
+2019-12-05 at 09:27:10 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:27:13 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:25
+2019-12-05 at 09:27:25 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:27:27 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:26
+2019-12-05 at 09:28:09 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:28:10 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:28:21 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @43 :-> addUrl:1
+2019-12-05 at 09:28:22 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:1
+2019-12-05 at 09:28:24 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:28:26 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @58 :-> deleteUrl:28
+2019-12-05 at 09:31:41 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 09:31:45 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3940 ms
+2019-12-05 at 09:31:45 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 09:31:46 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1301 ms
+2019-12-05 at 09:32:26 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 09:32:27 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 09:32:40 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 09:32:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:33:01 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:29
+2019-12-05 at 09:33:04 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:29
+2019-12-05 at 09:33:05 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:33:07 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 09:33:21 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:30
+2019-12-05 at 09:33:28 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:31
+2019-12-05 at 09:37:29 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 14:58:04 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 14:58:08 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3830 ms
+2019-12-05 at 14:58:08 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 14:58:09 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 882 ms
+2019-12-05 at 14:58:11 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 14:58:12 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 14:58:19 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 14:58:34 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:58:40 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 14:59:08 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 14:59:10 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 14:59:22 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:31
+2019-12-05 at 14:59:24 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:30
+2019-12-05 at 14:59:34 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:32
+2019-12-05 at 14:59:54 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:59:56 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:59:57 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:59:57 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:59:57 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 14:59:57 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:00:00 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:00:18 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:00:26 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:00:35 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:00:37 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:00:40 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:01:20 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:01:21 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:01:27 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:01:29 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:01:33 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:02:17 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:02:18 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:02:24 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:02:26 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:02:28 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:02:30 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:04:32 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 15:04:38 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5272 ms
+2019-12-05 at 15:04:38 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 15:04:39 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1355 ms
+2019-12-05 at 15:04:42 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:04:44 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 15:04:53 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:04:55 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:05:02 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:05:04 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:05:07 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:05:09 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:05:30 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:05:38 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:05:40 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:05:44 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:06:37 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:06:38 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:06:40 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:06:42 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:06:49 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:06:51 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:06:54 CST INFO  com.baiuait.search.controller.UserController.logout @142 :-> logout
+2019-12-05 at 15:06:55 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 15:07:20 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 15:07:23 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:25:29 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 15:25:30 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:01:02 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 16:01:26 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 16:01:34 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 16:01:37 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:01:37 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:02:19 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 16:02:26 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:02:26 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:02:58 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:02:58 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:03:01 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:03:01 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:04:50 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:04:50 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:04:53 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:04:53 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:07:44 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:07:44 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:07:47 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:07:47 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:09:37 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:09:37 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:13:18 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:13:18 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:13:23 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:13:23 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:13:39 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:13:39 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:13:40 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:13:40 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:13:47 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:13:48 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:13:48 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:13:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:13:50 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:13:50 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:13:51 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:02 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:03 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:04 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:04 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:04 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:04 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:3
+2019-12-05 at 16:14:05 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:3
+2019-12-05 at 16:14:08 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:19 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:19 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:14:19 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:4
+2019-12-05 at 16:14:20 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:4
+2019-12-05 at 16:14:21 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:4
+2019-12-05 at 16:14:22 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:4
+2019-12-05 at 16:14:22 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:4
+2019-12-05 at 16:14:22 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:14:22 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:23 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:5
+2019-12-05 at 16:14:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:5
+2019-12-05 at 16:14:28 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:5
+2019-12-05 at 16:14:31 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:32 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:14:32 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:32 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:14:32 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:6
+2019-12-05 at 16:14:42 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:6
+2019-12-05 at 16:14:44 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:7
+2019-12-05 at 16:14:47 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:47 CST INFO  com.baiuait.search.controller.MemoController.addMemo @47 :-> addMemo:2
+2019-12-05 at 16:14:47 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:47 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:8
+2019-12-05 at 16:14:48 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:8
+2019-12-05 at 16:14:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:8
+2019-12-05 at 16:14:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:8
+2019-12-05 at 16:14:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:8
+2019-12-05 at 16:14:50 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @68 :-> deleteMemo:8
+2019-12-05 at 16:14:53 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:14:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:14:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:14:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:15:01 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:15:02 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:15:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @107 :-> modifyMemoContent:2
+2019-12-05 at 16:15:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @86 :-> modifyMemoIsTop:2
+2019-12-05 at 16:18:42 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:18:42 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:18:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @86 :-> modifyMemoIsTop:2
+2019-12-05 at 16:18:52 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:18:52 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:19:11 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:19:11 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:22:44 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:22:44 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:22:46 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:22:46 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:23:16 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:23:16 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:23:16 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:23:16 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:23:59 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:23:59 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:24:29 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:24:29 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:24:38 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:24:38 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:24:48 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:2
+2019-12-05 at 16:24:59 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:24:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:24:59 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:24:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:24:59 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:24:59 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:24:59 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:24:59 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:25:00 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:25:00 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:25:00 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:25:00 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:9
+2019-12-05 at 16:25:00 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:9
+2019-12-05 at 16:25:00 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:01 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:01 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:25:01 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:01 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:25:01 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:01 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:01 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:25:01 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:25:01 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:25:02 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:11
+2019-12-05 at 16:27:02 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:11
+2019-12-05 at 16:27:03 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:27:03 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:27:08 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:10
+2019-12-05 at 16:27:09 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:11
+2019-12-05 at 16:27:11 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:12
+2019-12-05 at 16:27:12 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:13
+2019-12-05 at 16:27:13 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:14
+2019-12-05 at 16:27:21 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:27:21 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:21 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:21 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:15
+2019-12-05 at 16:27:21 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:15
+2019-12-05 at 16:27:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:15
+2019-12-05 at 16:27:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:15
+2019-12-05 at 16:27:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:15
+2019-12-05 at 16:27:25 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:15
+2019-12-05 at 16:27:26 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:27 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:27 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:27 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:17
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:17
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:18
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:18
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:31 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:31 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:31 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:31 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:19
+2019-12-05 at 16:27:31 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:19
+2019-12-05 at 16:27:32 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:27:32 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:27:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:33 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:33 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:33 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:33 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:33 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:35 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:36 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:36 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:36 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:37 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:37 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:37 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:27:54 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:27:54 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:27:59 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:16
+2019-12-05 at 16:28:00 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:20
+2019-12-05 at 16:28:02 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:28:03 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:22
+2019-12-05 at 16:28:05 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:22
+2019-12-05 at 16:28:05 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:28:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:06 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:07 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:07 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:07 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:22 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:22 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:22 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:22 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:23
+2019-12-05 at 16:28:22 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:23
+2019-12-05 at 16:28:22 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:28:23 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:28:23 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:23 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:23 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:23 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:24 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:25 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:28 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:37 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:24
+2019-12-05 at 16:28:40 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:21
+2019-12-05 at 16:28:42 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:43 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:44 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:45 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:46 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:47 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:53 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:21
+2019-12-05 at 16:28:55 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:24
+2019-12-05 at 16:28:59 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:28:59 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:29:07 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:11 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:25
+2019-12-05 at 16:29:14 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:29:14 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:29:14 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:14 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:14 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:15 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:34 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:26
+2019-12-05 at 16:29:38 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:26
+2019-12-05 at 16:29:40 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 16:29:40 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 16:29:46 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 16:29:47 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:28
+2019-12-05 at 16:29:48 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:28
+2019-12-05 at 16:29:49 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:28
+2019-12-05 at 16:29:51 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:27
+2019-12-05 at 16:29:53 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:28
+2019-12-05 at 16:29:59 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-05 at 16:30:01 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:21
+2019-12-05 at 16:30:03 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:24
+2019-12-05 at 16:30:04 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:25
+2019-12-05 at 17:34:21 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-05 at 17:34:27 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5997 ms
+2019-12-05 at 17:34:27 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-05 at 17:34:28 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1447 ms
+2019-12-05 at 17:34:31 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 17:34:33 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-05 at 17:34:43 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 17:34:45 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:34:45 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:34:47 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:34:47 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:34:49 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 17:34:50 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 17:34:51 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:29
+2019-12-05 at 17:34:51 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:29
+2019-12-05 at 17:34:52 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2019-12-05 at 17:34:52 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:31
+2019-12-05 at 17:34:53 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:31
+2019-12-05 at 17:34:54 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:31
+2019-12-05 at 17:34:56 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:34:56 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:35:01 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:30
+2019-12-05 at 17:35:03 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:35:03 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:35:04 CST INFO  com.baiuait.search.controller.MemoController.cleanTop @121 :-> cleanTop:2
+2019-12-05 at 17:35:06 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:35:06 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:35:10 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:35:10 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:35:20 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:31
+2019-12-05 at 17:35:22 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:35:22 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:35:25 CST INFO  com.baiuait.search.controller.MemoController.cleanTop @121 :-> cleanTop:2
+2019-12-05 at 17:35:25 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:35:25 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:36:46 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:36:46 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:37:44 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:37:44 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:38:14 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:38:14 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:38:14 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:38:14 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:38:52 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:38:52 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:39:41 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:39:41 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:39:45 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:39:45 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:39:57 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:39:57 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:42:09 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:42:09 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:42:34 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:42:34 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:42:34 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:42:34 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:43:40 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:43:40 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:44:00 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 17:44:09 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-05 at 17:44:23 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2019-12-05 at 17:44:25 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:44:25 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:45:13 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:45:13 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:45:24 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:45:24 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:46:22 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:46:22 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2019-12-05 at 17:46:32 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2019-12-05 at 17:46:32 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2

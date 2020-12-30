@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="search">
+    <output-path>Z:/</output-path>
+    <root id="archive" name="search.war" />
+  </artifact>
+</component>

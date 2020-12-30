@@ -1,0 +1,90 @@
+2019-12-04 at 08:25:07 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 08:25:10 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2949 ms
+2019-12-04 at 08:25:10 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 08:25:11 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 948 ms
+2019-12-04 at 08:25:45 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 08:28:13 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 08:28:23 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 9311 ms
+2019-12-04 at 08:28:23 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 08:28:27 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 3758 ms
+2019-12-04 at 08:28:31 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 09:08:49 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'username' is not present]
+2019-12-04 at 09:10:37 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'username' is not present]
+2019-12-04 at 09:11:28 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'username' is not present]
+2019-12-04 at 09:12:03 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'password' is not present]
+2019-12-04 at 09:46:14 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 09:46:20 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 6096 ms
+2019-12-04 at 09:46:20 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 09:46:23 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 2080 ms
+2019-12-04 at 09:49:56 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 10:02:30 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 10:02:33 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2466 ms
+2019-12-04 at 10:02:33 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 10:02:34 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 860 ms
+2019-12-04 at 10:50:15 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 10:50:20 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 5048 ms
+2019-12-04 at 10:50:20 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 10:50:22 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1883 ms
+2019-12-04 at 10:50:47 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 15:20:11 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 15:20:16 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4494 ms
+2019-12-04 at 15:20:16 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 15:20:17 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1395 ms
+2019-12-04 at 15:45:48 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 16:02:54 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 16:02:59 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4994 ms
+2019-12-04 at 16:02:59 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 16:03:01 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 2180 ms
+2019-12-04 at 16:03:06 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 16:07:38 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 16:07:43 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4865 ms
+2019-12-04 at 16:07:43 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 16:07:44 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1527 ms
+2019-12-04 at 16:07:48 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 16:11:31 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 16:11:33 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2215 ms
+2019-12-04 at 16:11:33 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 16:11:34 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 996 ms
+2019-12-04 at 16:11:49 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 16:38:23 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 16:38:25 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2680 ms
+2019-12-04 at 16:38:25 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 16:38:26 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1074 ms
+2019-12-04 at 16:38:29 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 16:45:14 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 16:45:18 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4010 ms
+2019-12-04 at 16:45:18 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 16:45:20 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1458 ms
+2019-12-04 at 16:45:35 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 17:36:13 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 17:36:15 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2339 ms
+2019-12-04 at 17:36:15 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 17:36:16 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1050 ms
+2019-12-04 at 17:36:23 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 17:38:46 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 17:38:48 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2382 ms
+2019-12-04 at 17:38:48 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 17:38:49 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1112 ms
+2019-12-04 at 17:39:00 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 17:40:22 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 17:40:26 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4228 ms
+2019-12-04 at 17:40:26 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 17:40:28 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1724 ms
+2019-12-04 at 17:40:42 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 17:45:53 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:10 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:24 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:25 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:25 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:25 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:46:25 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2019-12-04 at 17:52:12 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 17:52:15 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3211 ms
+2019-12-04 at 17:52:15 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 17:52:16 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 909 ms
+2019-12-04 at 17:52:19 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2019-12-04 at 17:57:34 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-04 at 17:57:39 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 4701 ms
+2019-12-04 at 17:57:39 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-04 at 17:57:41 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 1511 ms
+2019-12-04 at 17:57:45 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited

@@ -1,0 +1,6 @@
+2019-12-25 at 13:27:18 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2019-12-25 at 13:27:21 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3085 ms
+2019-12-25 at 13:27:21 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2019-12-25 at 13:27:22 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 766 ms
+2019-12-25 at 13:27:25 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2019-12-25 at 13:27:29 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited

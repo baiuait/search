@@ -1,0 +1,152 @@
+2020-06-11 at 15:12:18 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2020-06-11 at 15:12:22 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 3871 ms
+2020-06-11 at 15:12:22 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2020-06-11 at 15:12:25 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 2677 ms
+2020-06-11 at 15:12:29 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2020-06-11 at 15:12:30 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2020-06-11 at 15:12:51 CST INFO  com.baiuait.search.controller.UserController.login @76 :-> login
+2020-06-11 at 15:12:53 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 15:12:53 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 15:12:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:12:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:12:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:12:59 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:13:00 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:13:09 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:33
+2020-06-11 at 15:13:12 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:34
+2020-06-11 at 15:13:14 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:37
+2020-06-11 at 15:13:28 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:13:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:38
+2020-06-11 at 15:13:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:38
+2020-06-11 at 15:13:30 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 15:13:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:39
+2020-06-11 at 15:13:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:39
+2020-06-11 at 15:13:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:39
+2020-06-11 at 15:13:31 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:39
+2020-06-11 at 17:03:10 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2020-06-11 at 17:03:13 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2933 ms
+2020-06-11 at 17:03:13 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2020-06-11 at 17:03:14 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 991 ms
+2020-06-11 at 17:03:39 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2020-06-11 at 17:03:40 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2020-06-11 at 17:03:41 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:03:41 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:03:41 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:03:41 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:03:42 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:03:42 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:03:58 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:35
+2020-06-11 at 17:04:00 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:36
+2020-06-11 at 17:07:04 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:38
+2020-06-11 at 17:07:06 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:39
+2020-06-11 at 17:07:15 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:18 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:07:20 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:20 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:21 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:21 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:21 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:41
+2020-06-11 at 17:07:31 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:42
+2020-06-11 at 17:07:33 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:43
+2020-06-11 at 17:07:36 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:44
+2020-06-11 at 17:07:38 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:41
+2020-06-11 at 17:07:46 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:46 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:46 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:07:49 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:45
+2020-06-11 at 17:07:51 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:46
+2020-06-11 at 17:07:52 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:47
+2020-06-11 at 17:08:38 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:39 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:56 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:57 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:58 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:40
+2020-06-11 at 17:08:58 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:40
+2020-06-11 at 17:10:58 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:10:58 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:12:04 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2020-06-11 at 17:12:36 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:12:36 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:13:15 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:13:15 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:14:48 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:34
+2020-06-11 at 17:15:13 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:35
+2020-06-11 at 17:17:02 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:17:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:48
+2020-06-11 at 17:17:05 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:48
+2020-06-11 at 17:17:10 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:17:10 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:49
+2020-06-11 at 17:17:10 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:49
+2020-06-11 at 17:17:17 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoIsTop @85 :-> modifyMemoIsTop:48
+2020-06-11 at 17:17:20 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:17:20 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:17:29 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:48
+2020-06-11 at 17:17:30 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:48
+2020-06-11 at 17:17:32 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:48
+2020-06-11 at 17:17:39 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:49
+2020-06-11 at 17:17:41 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:48
+2020-06-11 at 17:17:48 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:17:49 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:17:49 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:22:22 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:35
+2020-06-11 at 17:22:34 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:52
+2020-06-11 at 17:23:07 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:51
+2020-06-11 at 17:23:08 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:50
+2020-06-11 at 17:23:09 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:50
+2020-06-11 at 17:23:09 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:50
+2020-06-11 at 17:23:11 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:23:11 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:23:13 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:54
+2020-06-11 at 17:23:16 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:23:16 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:23:18 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:55
+2020-06-11 at 17:23:19 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:56
+2020-06-11 at 17:23:21 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:53
+2020-06-11 at 17:23:24 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 17:23:24 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:57
+2020-06-11 at 17:23:26 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:57
+2020-06-11 at 17:24:25 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:34
+2020-06-11 at 17:24:27 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:33
+2020-06-11 at 17:24:34 CST INFO  com.baiuait.search.controller.UrlsController.addUrl @44 :-> addUrl:36
+2020-06-11 at 17:24:37 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 17:24:37 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 17:24:40 CST INFO  com.baiuait.search.controller.UrlsController.deleteUrl @59 :-> deleteUrl:36
+2020-06-11 at 17:44:31 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2020-06-11 at 17:44:33 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2698 ms
+2020-06-11 at 17:44:33 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2020-06-11 at 17:44:34 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 808 ms
+2020-06-11 at 17:46:55 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2020-06-11 at 17:46:58 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2529 ms
+2020-06-11 at 17:46:58 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2020-06-11 at 17:46:59 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 768 ms
+2020-06-11 at 18:02:52 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @270 :-> Root WebApplicationContext: initialization started
+2020-06-11 at 18:02:55 CST INFO  org.springframework.web.context.ContextLoader.initWebApplicationContext @306 :-> Root WebApplicationContext initialized in 2368 ms
+2020-06-11 at 18:02:55 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @524 :-> Initializing Servlet 'dispatcherServlet'
+2020-06-11 at 18:02:56 CST INFO  org.springframework.web.servlet.FrameworkServlet.initServletBean @546 :-> Completed initialization in 709 ms
+2020-06-11 at 18:08:41 CST INFO  com.baiuait.search.controller.UserController.getUserByCookie @110 :-> getUserByCookie
+2020-06-11 at 18:08:42 CST INFO  com.alibaba.druid.support.logging.Log4j2Impl.info @106 :-> {dataSource-1} inited
+2020-06-11 at 18:08:43 CST INFO  com.baiuait.search.controller.UrlsController.getUrlsByUserId @26 :-> getUrlsByUserId:2
+2020-06-11 at 18:08:43 CST INFO  com.baiuait.search.controller.MemoController.getMemosByUserId @31 :-> getMemosByUserId:2
+2020-06-11 at 18:11:40 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 18:11:40 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 18:11:40 CST INFO  com.baiuait.search.controller.MemoController.addMemo @46 :-> addMemo:2
+2020-06-11 at 18:11:42 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:58
+2020-06-11 at 18:11:42 CST INFO  com.baiuait.search.controller.MemoController.modifyMemoContent @106 :-> modifyMemoContent:58
+2020-06-11 at 18:11:42 CST INFO  com.baiuait.search.controller.MemoController.deleteMemo @67 :-> deleteMemo:58
+2020-06-11 at 18:11:42 CST WARN  org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException @197 :-> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
